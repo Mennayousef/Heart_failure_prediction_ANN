@@ -30,3 +30,5 @@ Model building
 Conclusions
 
 ## EDA
+![image](https://github.com/Mennayousef/Heart_failure_prediction_ANN/assets/139762536/bfe637af-c69f-406b-b10c-51cc85633076)
+

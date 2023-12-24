@@ -1,34 +1,13 @@
 # ANN for Heart Failure Prediction
-## About heart failure
-Heart failure (HF) refers to the heart's inability to effectively pump blood throughout the body. While it does not imply a complete cessation of bodily functions, HF is a leading cause of death globally. This project focuses on predicting the probability of mortality resulting from heart failure using 12 risk factors. The objective is to expedite and enhance the identification of the disease, enabling timely intervention and appropriate measures to prevent disease progression.
+## Introduction
+Heart failure (HF) refers to the heart's inability to effectively pump blood throughout the body. While it does not imply a complete cessation of bodily functions, HF is a leading cause of death globally. 
 
-## Input features
-- Age
-- Anaemia
-- Creatinine Phosphokinase
-- Diabetes
-- Ejection Fraction
-- High Blood Pressure
-- Platelets
-- Serum Creatinine
-- Serum Sodium
-- Sex
-- Smoking
-- Follow Up Time
-  
-## Model
-Import libraries
+## Objective
+This project focuses on predicting the probability of mortality resulting from heart failure using 12 risk factors. The objective is to expedite and enhance the identification of the disease, enabling timely intervention and appropriate measures to prevent disease progression.
 
-Loading data: The dataset is available at https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data?resource=download
+## Dataset description 
+The dataset contains information on various factors related to heart failure. These factors include the patient's age, whether they have anaemia (low haemoglobin levels), the level of creatine phosphokinase in their blood, whether they have diabetes, the ejection fraction (a measure of how well the heart pumps blood), whether they have high blood pressure, the platelet count in their blood, the level of serum creatinine in their blood, the level of serum sodium in their blood, the patient's sex, their smoking habits, the time of their follow-up visit for the disease, and whether the patient experienced death during the follow-up period. The aim of this project is to predict the likelihood of mortality due to heart failure based on these 12 risk factors. By doing so, it seeks to facilitate early and efficient identification of the disease, allowing for timely intervention and appropriate measures to be taken before the condition progresses.
 
-Exploratory Data Analysis
+The dataset is available at https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data?resource=download
 
-Data Preprocessing
-
-Model building
-
-Conclusions
-
-## EDA
-![image](https://github.com/Mennayousef/Heart_failure_prediction_ANN/assets/139762536/bfe637af-c69f-406b-b10c-51cc85633076)
 

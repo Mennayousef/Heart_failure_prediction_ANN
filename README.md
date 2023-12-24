@@ -18,10 +18,15 @@ Heart failure (HF) refers to the heart's inability to effectively pump blood thr
   
 ## Model
 Import libraries
+
 Loading data: The dataset is available at https://www.kaggle.com/datasets/andrewmvd/heart-failure-clinical-data?resource=download
+
 Exploratory Data Analysis
+
 Data Preprocessing
+
 Model building
+
 Conclusions
 
 ## EDA
